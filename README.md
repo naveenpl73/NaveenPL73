@@ -1,7 +1,7 @@
-- 👋 Hi  I’m @naveenpl73
-- 👀 I’m interested in working with **AI/ML projects**
-- 🌱 I’m currently exploring **Generative AI**
-- 💞️ I’m looking to collaborate on **freelancing projects**
+- 👋 Hi  I’m @Naveen P L
+- 👀 I’m interested in working with AI/ML projects
+- 🌱 I’m currently exploring Generative AI
+- 💞️ I’m looking to collaborate on freelancing projects
 - 📫 How to reach me:  
   - 📧 Email: naveenpln99@gmail.com  
   - 📞 Phone: 6362796411
