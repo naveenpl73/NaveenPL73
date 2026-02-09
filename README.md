@@ -1,5 +1,4 @@
-## 👋 Hi there, I’m @naveenpl73
-
+- 👋 Hi  I’m @naveenpl73
 - 👀 I’m interested in working with **AI/ML projects**
 - 🌱 I’m currently exploring **Generative AI**
 - 💞️ I’m looking to collaborate on **freelancing projects**
